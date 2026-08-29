@@ -229,3 +229,33 @@ The workflow audit helped me identify where AI provides the most value in my dai
 My main principle going forward is to use AI as a collaborator and productivity tool while retaining responsibility for understanding, verification, technical decisions and final submissions.
 
 This approach will help me become more efficient while continuing to develop my own problem-solving and technical skills.
+
+### Portfolio Proof Statement
+
+> I build machine-learning solutions that turn real-world data into useful, working applications, and I prove my work through practical projects rather than only listing skills.
+
+**Target audience:** ML/AI hiring managers and technical recruiters looking for a student intern who can work with real datasets, build and evaluate ML models, and turn ideas into usable applications.
+
+**Primary action:** Contact me about an ML/AI internship opportunity.
+
+**Why the portfolio is needed:** A CV or LinkedIn profile can list technologies and projects, but it cannot clearly demonstrate how I approach a problem, work with data, build and evaluate a model, understand its limitations, and turn the result into something useful.
+
+### Revision After Claude's Pressure Test
+
+Claude's pressure test identified that the portfolio should show evidence of my ML ability as early as possible rather than relying only on a general claim.
+
+Based on this feedback, I will make the following changes:
+
+1. **Add a Proof Strip to the Home page** featuring my 1–2 strongest ML projects with concrete evidence and links to their case studies.
+2. **Remove the standalone Skills section** and demonstrate technologies within project case studies where they are connected to actual work.
+3. **Add a dedicated Limitations section** to each case study so that I show where the model or solution may fail and what could be improved.
+4. **Keep Case Studies under Work** rather than making them a separate top-level navigation item.
+
+The most important change is adding project evidence directly to the Home page so that a hiring manager can see proof of my ML claim immediately.
+
+### Claude Project
+
+**Project Name:** `Narasimha-ML Portfolio Build`
+
+**Purpose:** This Claude Project acts as my AI tutor and build partner throughout the portfolio development process. Its instructions contain my portfolio proof statement, target audience, primary action, and rules for keeping the portfolio evidence-based and focused.
+
