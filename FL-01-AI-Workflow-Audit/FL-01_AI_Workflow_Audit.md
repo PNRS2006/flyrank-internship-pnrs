@@ -143,6 +143,46 @@ The Claude Project is configured with the following instructions:
 > Continue using this context throughout my portfolio build.
 
 ---
+## 3A. What Am I Proving?
+
+### Proof Statement
+
+I can **build and evaluate practical machine-learning solutions from real-world data**, and I prove this through projects where I work with datasets, develop and evaluate ML models, and turn the results into usable applications. I am proving this specifically to an **ML/AI hiring manager evaluating candidates for a student internship**. The single most important action I want them to take is to **contact me about an ML/AI internship opportunity**.
+
+### Why This Needs to Exist
+
+A CV or LinkedIn profile can list my ML skills, technologies, and projects, but it cannot clearly show how I work with real data, build and evaluate a model, understand its limitations, and turn the result into something useful.
+
+### AI Thinking Partner Process
+
+I used my configured Claude Project, **Narasimha-ML Portfolio Build**, as a thinking partner rather than asking it to simply write my proof statement.
+
+I asked Claude to interview me one question at a time about my actual ML abilities, evidence, target audience, and desired outcome. I instructed it to challenge vague or broad claims and help narrow the statement to one primary capability that I can genuinely prove through my projects.
+
+The final proof statement reflects my own capability and goals, with Claude used to challenge and refine my thinking rather than inventing claims or achievements.
+
+### AI Interview Prompt
+
+I asked Claude:
+
+> I need to define the one thing my ML portfolio should prove.
+>
+> Do NOT write the proof statement for me.
+>
+> Instead, interview me one question at a time. Ask sharp, challenging questions about:
+> - what ML work I can genuinely do,
+> - what evidence I actually have,
+> - what makes my ability different from simply listing Python/ML skills,
+> - exactly who I want to convince,
+> - and what single action I want that person to take.
+>
+> Push back if my answers contain multiple skills, vague claims, generic language, or claims I cannot prove with real work.
+>
+> Keep narrowing the claim until it is one primary capability that is specific, honest, and supported by my actual projects.
+>
+> Only after the interview is complete, help me evaluate my own final statement against the three requirements: one claim, one person, one action.
+
+
 
 ## 4. Portfolio Sitemap
 
